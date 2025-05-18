@@ -1,1 +1,2 @@
 # ToDoList
+A simple and responsive To-Do List web app that helps users add, manage, and delete daily tasks efficiently. Built using HTML, CSS, and JavaScript to enhance productivity with a clean user interface.
